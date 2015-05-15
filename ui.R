@@ -22,4 +22,5 @@ shinyUI(fluidPage(
       p("* Erstellung von Dashboards.")
     )
   )
+  #end of file
 ))
